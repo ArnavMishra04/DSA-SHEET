@@ -4,7 +4,7 @@ class Solution {
 
         long sum = 0;
         int left = 0;
-        int answer = 0;
+        int answer = 1;
 
         for (int right = 0; right < nums.length; right++) {
 
